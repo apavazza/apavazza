@@ -2,5 +2,5 @@
 
 I'm a Computer Science student at [FESB](https://www.fesb.unist.hr/).
 
-- [My website](https://apavazza.vercel.app/)
+- [My website](https://amadeopavazza.from.hr/)
 - [LinkedIn](https://www.linkedin.com/in/amadeo-pavazza/)
